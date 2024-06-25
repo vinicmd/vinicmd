@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Springboot and Clean Architecture**
 
-- 👯 I’m looking to collaborate on **Javascript or Java projects**
+- 👯 I’m looking to collaborate on **Javascript projects**
 
 - 👨‍💻 All of my projects are available at [https://viniduarte.tech](https://viniduarte.tech)
 
